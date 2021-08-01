@@ -37,7 +37,7 @@ public class SearchTestDemo {
     //     WebDriver driver = new ChromeDriver();
     //     driver.get("https://www.pluralsight.com/");
     //     Thread.sleep(3000);
-    //    // driver.quit();
+    //     driver.quit();
     }
     @Test
     public void basicfilterbytest() throws InterruptedException
